@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=false
+Exec=/opt/firefox_dev/firefox %u
+Icon=/opt/firefox_dev/browser/icons/mozicon128.png
+Name=Firefox Developer Edition
+Comment=Définition personnalisée pour Firefox Developer Edition
