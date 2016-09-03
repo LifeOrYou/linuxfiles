@@ -1,0 +1,23 @@
+Xubuntu 16.04 - DevMachine
+mdp : Password
+echo "Instalation de Git - Php (Cakephp extension and composer) - Java"
+sudo apt-get update 
+sudo apt-get install -y git
+git config --global user.email "valentin.reydy@gmail.com"
+git config --global user.name "Valentin"
+sudo apt-get install -y php7.0 php7.0-mbstring php7.0-intl php7.0-pdo-firebird php7.0-sqlite3 composer
+sudo apt-get install -y openjdk-8-jdk
+
+## Backup 1 
+
+echo "Installation de MozillaDev"
+cd ~/Téléchargement/
+wget https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-aurora-l10/firefox-50.0a2.fr.linux-x86_64.tar.bz2
+tar xvjf firefox-50.0a2.fr.linux-x86_64.tar.bz2
+rm firefox-50.0a2.fr.linux-x86_64.tar.bz2
+mv firefox/ /usr/local/share/firefox-dev/
+
+echo "Installation de terminator"
+sudo apt-get install -y terminator
+
+
