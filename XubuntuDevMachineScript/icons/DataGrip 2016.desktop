@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Datagrip 2016
+GenericName=DataGrip 2016
+Exec=/opt/DataGrip-2016.2.2/bin/datagrip.sh
+Terminal=false
+Icon=/opt/DataGrip-2016.2.2/bin/product.png
+Type=ApplicationCategories=Application;X-Developer;
+Comment=DataGrip - Db Explorer
