@@ -1,0 +1,30 @@
+
+# Themes
+gtk-arc-flatabulous-theme-git
+arc-icon-theme
+xfce4-whiskermenu-plugin
+
+# Environnement
+openjdk-8
+php
+php-interbase
+php-pdo-firebird
+nodejs
+npm
+
+# Tools
+firefox-dev
+spotify
+keepass
+gparted
+
+# Dev Tools
+rabbitvcs
+rabbitvcs-cli
+rabbitvcs-thunar
+netbeans
+sublime-text-dev
+composer
+
+# NPM Tools
+maildev

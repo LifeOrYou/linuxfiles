@@ -1,0 +1,10 @@
+Installation de firebird 3.0 sur ArcLinux
+
+Installer la libtommath.
+faire un liens symbolique de libtommath.so.1 vers libtommath.so.0.
+
+Installer ncurse.
+Télécharger ncurses5.9 ici : http://ala.seblu.net/packages/n/ncurses/
+copier dans /usr/lib/ le fichier /usr/bin/libncurses.so.5.
+
+On peut enfin lancer l'install de firebird3.
